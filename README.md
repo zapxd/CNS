@@ -80,6 +80,9 @@ HTTP (HyperText Transfer Protocol) is stateless and used for web communication. 
 ---
 
 **14. Difference between TCP & UDP?**  
+TCP: Transmission Control Protocol
+
+UDP: User Datagram Protocol
 TCP is reliable, connection-oriented; UDP is faster, connectionless, and used for time-sensitive applications like streaming.
 
 ---
