@@ -7,7 +7,13 @@ The Application Layer enables user interaction with the network by providing pro
 
 **2. Which protocol is used at Application Layer?**  
 Protocols include HTTP, FTP, SMTP, POP3, IMAP, DNS, DHCP, Telnet, etc.
-
+HTTP – HyperText Transfer Protocol
+FTP – File Transfer Protocol
+SMTP – Simple Mail Transfer Protocol
+POP3 – Post Office Protocol version 3
+IMAP – Internet Message Access Protocol
+DNS – Domain Name System
+DHCP – Dynamic Host Configuration Protocol
 ---
 
 **3. What is DNS? How it works?**  
