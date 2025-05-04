@@ -1,4 +1,4 @@
-## Application Layer Questions and Answers
+## Application Layer - Samajne Wale ko ishara cofee haii!! aa meri jaann!!!
 
 **1. What is the job of Application Layer?**  
 The Application Layer enables user interaction with the network by providing protocols and services to applications like email, file transfer, and web browsing.
